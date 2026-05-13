@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi I'm Liiban a Python developer focused on data analysis, simulation, and quantitative problem-solving.
 
-<!--
-**LiibanF/LiibanF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: 
+Python (data analysis, scripting) | SQL (basic querying) | Data analysis & statistics |Git & version control | Matplotlib / basic visualisation
 
-Here are some ideas to get you started:
+Featured Project:
+Monte Carlo Simulation (Coin Flips & Dice Rolls)
+Built a Python simulation modelling probabilistic outcomes using repeated random sampling to approximate distributions and analyse convergence towards expected values. Visualised variance across large sample sizes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: github.com/LiibanF/Monte-Carlo-Simulation
+Currently Learning
+- Calculus and linear algebra
+- Data structures and algorithms
+- Applied data analysis projects in Python

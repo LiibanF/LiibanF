@@ -8,10 +8,11 @@ Monte Carlo Simulation (Coin Flips & Dice Rolls)
 Built a Python simulation modelling probabilistic outcomes using repeated random sampling to approximate distributions and analyse convergence towards expected values. Visualised variance across large sample sizes.
 
 GitHub: github.com/LiibanF/Monte-Carlo-Simulation
-Currently Learning
-- Calculus and linear algebra
-- Data structures and algorithms
-- Applied data analysis projects in Python
+
+Currently building:
+- Linux command-line proficiency for production environments
+- Applied probability and statistical modelling
+- Data structures and algorithm fundamentals
 
   
 # 💻 Tech Stack:

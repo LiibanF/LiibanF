@@ -1,18 +1,16 @@
-Hi I'm Liiban a Python developer focused on data analysis, simulation, and quantitative problem-solving.
+Trading Systems Engineer | Python Developer | Quantitative Methods
 
-Skills: 
-Python (data analysis, scripting) | SQL (basic querying) | Data analysis & statistics |Git & version control | Matplotlib / basic visualisation
+Focused on systems architecture, quantitative methods, and building tools for financial engineering.
 
-Featured Project:
-Monte Carlo Simulation (Coin Flips & Dice Rolls)
-Built a Python simulation modelling probabilistic outcomes using repeated random sampling to approximate distributions and analyse convergence towards expected values. Visualised variance across large sample sizes.
-
-GitHub: github.com/LiibanF/Monte-Carlo-Simulation
+Featured Projects:
+- Portfolio Backtester — Modular backtesting engine with rigorous testing and validation
+- Gambler's Ruin Simulation — Monte Carlo engine validating probability theory empirically
 
 Currently building:
-- Linux command-line proficiency for production environments
-- Applied probability and statistical modelling
-- Data structures and algorithm fundamentals
+- Deeper Python proficiency for production systems
+- Systems design and architectural thinking
+- Mathematical foundations (Calculus, Linear Algebra, Statistics)
+- Understanding fintech and trading infrastructure
 
   
 # 💻 Tech Stack:
